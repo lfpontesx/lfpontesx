@@ -161,10 +161,10 @@ luis@dev-terminal:~$ _
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/>
 </a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
+<a href="https://https://www.instagram.com/_lfpaiva/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=00F0FF"/>
 </a>
-<a href="mailto:SEU_EMAIL@gmail.com">
+<a href="lfpontex@gmail.com">
 <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00F0FF"/>
 </a>
 <a href="https://wa.me/5521983033760" target="_blank">
